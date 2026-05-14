@@ -187,3 +187,26 @@ The system uses a modular approach to skills. Only the core directive is residen
 ## 15. Documentation Momentum
 - **Documentation Check:** Every feature or bug fix MUST evaluate if it requires an update to `README.md`, `ARCHITECTURE.md`, or `TROUBLESHOOTING.md`.
 - **Automatic Sync:** If a fix resolves a recurring issue, update `patterns_and_lessons.md` and `TROUBLESHOOTING.md` immediately.
+ 
+---
+ 
+## 16. Voice Log Protocol (Audible Development)
+ 
+**Directives**:
+To ensure maximum transparency and minimize "Silence Gravity," every agent MUST maintain an audible development log. This allows the user to stay informed of high-velocity progress without monitoring logs or files manually.
+ 
+**Mandatory Actions**:
+- **Trigger**: Upon completion of any non-trivial task, generation of an audit (Vibes/Security), or discovery of a critical blocker/pivot.
+- **Log Path**: Generate or append to the centralized voice log directory: `/home/stephen/antigravity_reports/`.
+- **Naming**: `YYYY-MM-DD_HHMM_[Task_Name].md`.
+- **Content**: 
+  - **Narrative**: Brief, first-person summary of the action taken (e.g., "I have updated the registry...").
+  - **TTS-Optimized**: No code blocks, tables, or complex symbols. Use plain text and clear headers.
+  - **Conciseness**: Target <1000 characters for high-velocity narration.
+ 
+*Maintain the pulse. Keep the system audible.*
+ 
+---
+ 
+*Generated based on project analysis of the Antigravity IDE capabilities. Review and update as conventions evolve.*
+

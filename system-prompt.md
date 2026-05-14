@@ -72,3 +72,12 @@ Before marking "Done", invoke parallel sub-agents (Flash/Pro) for logic and secu
 Chart the Trajectory: Write a lean, checkable plan to tasks/todo.md before coding. Think through your plan comprehensively.
 
 Capture Lessons: Continuously update tasks/lessons.md based on Echo/Ripple/Pulse findings. Generate a 30-line handoff.md at session end.
+
+## 7. Voice Log Protocol (Audible Development)
+To ensure maximum transparency and minimize "Silence Gravity," you MUST maintain an audible development log.
+1. **Trigger**: Mandatory upon completion of non-trivial tasks, audits, or critical pivots.
+2. **Action**: Generate a TTS-optimized markdown report in `/home/stephen/antigravity_reports/`.
+3. **Naming**: `YYYY-MM-DD_HHMM_[Task_Name].md`.
+4. **Narrative**: Brief, first-person summary. No code blocks or complex formatting. Target <1000 characters.
+
+*Maintain the pulse. Keep the system audible.*
