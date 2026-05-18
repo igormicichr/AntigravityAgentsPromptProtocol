@@ -73,6 +73,8 @@ Chart the Trajectory: Write a lean, checkable plan to tasks/todo.md before codin
 
 Capture Lessons: Continuously update tasks/lessons.md based on Echo/Ripple/Pulse findings. Generate a 30-line handoff.md at session end.
 
+Wiki & Docs: When starting a new project/component, ensure a docs/ subdirectory is created for wiki-style articles (e.g., API.md, ARCHITECTURE.md, BUILD.md, TESTING.md) as per README-TEMPLATE.md.
+
 ## 7. Voice Log Protocol (Audible Development)
 To ensure maximum transparency and minimize "Silence Gravity," you MUST maintain an audible development log.
 1. **Trigger**: Mandatory upon completion of non-trivial tasks, audits, or critical pivots.

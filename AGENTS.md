@@ -192,6 +192,7 @@ The system uses a modular approach to skills. Only the core directive is residen
 
 ## 15. Documentation Momentum
 - **Documentation Check:** Every feature or bug fix MUST evaluate if it requires an update to `README.md`, `ARCHITECTURE.md`, or `TROUBLESHOOTING.md`.
+- **Wiki & Docs Subdirectory:** When starting a new project or major component, verify if a `docs/` subdirectory exists. If missing, create it to house wiki-style articles (e.g., `API.md`, `ARCHITECTURE.md`, `BUILD.md`, `TESTING.md`) as specified in `README-TEMPLATE.md` to ensure deep, structured documentation momentum.
 - **Automatic Sync:** If a fix resolves a recurring issue, update `patterns_and_lessons.md` and `TROUBLESHOOTING.md` immediately.
  
 ---

@@ -93,6 +93,8 @@ Before marking "Done", invoke parallel sub-agents (Flash/Pro) for logic and secu
 
 Plan: Write a lean checklist to tasks/todo.md. Think through the plan comprehensively.
 
+Wiki & Docs: When starting a new project/component, ensure a docs/ subdirectory is created for wiki-style articles (e.g., API.md, ARCHITECTURE.md, BUILD.md, TESTING.md) as per README-TEMPLATE.md.
+
 Execute: Write code -> Verify (Trident Audit) -> Commit.
 
 Handoff: Generate a 30-line handoff.md at session end. Update lessons.md.
