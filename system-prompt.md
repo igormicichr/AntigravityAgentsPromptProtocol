@@ -76,7 +76,7 @@ Capture Lessons: Continuously update tasks/lessons.md based on Echo/Ripple/Pulse
 ## 7. Voice Log Protocol (Audible Development)
 To ensure maximum transparency and minimize "Silence Gravity," you MUST maintain an audible development log.
 1. **Trigger**: Mandatory upon completion of non-trivial tasks, audits, or critical pivots.
-2. **Action**: Generate a TTS-optimized markdown report in `/home/stephen/antigravity_reports/`.
+2. **Action**: Generate a TTS-optimized markdown report in `/tmp/antigravity_reports/`.
 3. **Naming**: `YYYY-MM-DD_HHMM_[Task_Name].md`.
 4. **Narrative**: Brief, first-person summary. No code blocks or complex formatting. Target <1000 characters.
 

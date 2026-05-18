@@ -203,7 +203,7 @@ To ensure maximum transparency and minimize "Silence Gravity," every agent MUST 
  
 **Mandatory Actions**:
 - **Trigger**: Upon completion of any non-trivial task, generation of an audit (Vibes/Security), or discovery of a critical blocker/pivot.
-- **Log Path**: Generate or append to the centralized voice log directory: `/home/stephen/antigravity_reports/`.
+- **Log Path**: Generate or append to the centralized voice log directory: `/tmp/antigravity_reports/`.
 - **Naming**: `YYYY-MM-DD_HHMM_[Task_Name].md`.
 - **Content**: 
   - **Narrative**: Brief, first-person summary of the action taken (e.g., "I have updated the registry...").
